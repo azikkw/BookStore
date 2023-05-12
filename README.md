@@ -6,8 +6,10 @@
 > Bookstore is an Android application that allows you to browse and purchase a wide selection of books directly from your smartphone. The application has a user-friendly interface that makes it easier to search for specific book titles. As soon as you find the book you are interested in, you can read the summary. view reviews from other users . and rating the book before making a purchase.
   
 ⠀  
-<p align="center">About Application</p>
----
+<h2 align="center">About Application</h2>
+
+-----
+
 ### 1. Roles
   
     1. Admin
