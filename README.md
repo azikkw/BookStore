@@ -9,9 +9,9 @@
 <h2 align="center">ABOUT APPLICATION</h2>
 
 ### 1. Main
-Application writen on `Kotlin`
-To create the user interface was used `Jetpack Compose`
-For data storage was used was used cloud database `Firebase`
+* Application writen on `Kotlin`
+* To create the user interface was used `Jetpack Compose`
+* For data storage was used was used cloud database `Firebase`
 
 ### 2. Roles
   
