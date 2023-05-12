@@ -13,3 +13,22 @@
     1. Admin
     2. Store
     3. Client
+
+### 2. User Interfaces
+  
+    1. Admin Interface (2 page)          /  Books and Sellers list pages
+                                            Search page for Books and Sellers
+                                            Seller and Book detail pages
+                                           
+    2. Store Interface (4 page)          /  Books and Sellers list pages
+                                            Search page for Books and Sellers
+                                            Profile page with his books
+                                            Seller and Book detail pages
+    
+    3. Client Interface (5 page)         /  Books and Sellers list pages
+                                            Search page for Books and Sellers
+                                            Profile page
+                                            Balance page
+                                            Rate book page
+                                            
+    
