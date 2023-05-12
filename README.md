@@ -8,20 +8,19 @@
 ⠀  
 <h2 align="center">ABOUT APPLICATION</h2>
 
-### 1. Main
 * Application writen on `Kotlin`
 * To create the user interface was used `Jetpack Compose`
 * For data storage was used was used cloud database `Firebase`
     
-### 2. Roles and Functional
+<h2 align="center">ROLES AND FUNCTIONAL</h2>
 
-    Admin - Delete books and sellers
-    Seller - Add book, update book, delete his books
-    Client - Rate book, add comment to book, add books to cart, replenish balance
+    1. Admin - Delete books and sellers
+    2. Seller - Add book, update book, delete his books
+    3. Client - Rate book, add comment to book, add books to cart, replenish balance
     
     !Common functioanl - Sign up/in, search books/sellers, filter books by price/rating
     
-### 3. User Interfaces
+<h2 align="center">USER INTREFACES</h2>
   
     1. Admin Interface/           Books and Sellers list pages
                                   Search page for Books and Sellers
