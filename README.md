@@ -8,8 +8,6 @@
 ⠀  
 <h2 align="center">About Application</h2>
 
------
-
 ### 1. Roles
   
     1. Admin
