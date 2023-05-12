@@ -13,7 +13,7 @@
 * For data storage was used was used cloud database `Firebase`
   
 ⠀  
-## ROLES AND FUNCTIONAL
+## ROLES AND FUNCTIONAL / USER INTERFACES
 
     1. Admin - Delete books and sellers
     2. Seller - Add book, update book, delete his books
@@ -21,8 +21,9 @@
     
     !Common functioanl - Sign up/in, search books/sellers, filter books by price/rating
     
-## USER INTERFACES
-  
+    
+    
+    
     1. Admin Interface/           Books and Sellers list pages
                                   Search page for Books and Sellers
                                   Seller and Book detail pages
