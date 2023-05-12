@@ -7,6 +7,7 @@
   
 ⠀  
 <p align="center">About Application</p>
+---
 ### 1. Roles
   
     1. Admin
