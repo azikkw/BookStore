@@ -15,8 +15,6 @@
     3. Client
 
 ### 2. User Interfaces
-
-    !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.
   
     1. Admin Interface/           Books and Sellers list pages
                                   Search page for Books and Sellers
@@ -34,3 +32,13 @@
                                   Profile page
                                   Balance page
                                   Rate book page
+                                  
+    !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.       
+    
+### 3. Functional
+
+    Admin - Delete books and sellers
+    Seller - Add book, update book, delete his books
+    Client - Rate book, add comment to book, add books to cart, replenish balance
+    
+    !Common functioanl - Sign up/in, search books/sellers, filter books by price/rating
