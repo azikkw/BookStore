@@ -20,7 +20,7 @@
     3. Client - Rate book, add comment to book, add books to cart, replenish balance
     
     !Common functioanl - Sign up/in, search books/sellers, filter books by price/rating
-⠀  
+    
 ## USER INTERFACES
   
     1. Admin Interface/           Books and Sellers list pages
