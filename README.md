@@ -15,20 +15,20 @@
     3. Client
 
 ### 2. User Interfaces
+
+    Common pages: Books and Sellers list pages; Search page; Book and Seller detail pages.
   
-    1. Admin Interface (2 page)          /  Books and Sellers list pages
-                                            Search page for Books and Sellers
-                                            Seller and Book detail pages
+    1. Admin Interface/           Books and Sellers list pages
+                                  Search page for Books and Sellers
+                                  Seller and Book detail pages
                                            
-    2. Store Interface (4 page)          /  Books and Sellers list pages
-                                            Search page for Books and Sellers
-                                            Profile page with his books
-                                            Seller and Book detail pages
+    2. Store Interface/           Books and Sellers list pages
+                                  Search page for Books and Sellers
+                                  Profile page with his books
+                                  Seller and Book detail pages
     
-    3. Client Interface (5 page)         /  Books and Sellers list pages
-                                            Search page for Books and Sellers
-                                            Profile page
-                                            Balance page
-                                            Rate book page
-                                            
-    
+    3. Client Interface/          Books and Sellers list pages
+                                  Search page for Books and Sellers
+                                  Profile page
+                                  Balance page
+                                  Rate book page
