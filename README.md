@@ -16,7 +16,7 @@
 
 ### 2. User Interfaces
 
-    Common pages: Books and Sellers list pages; Search page; Book and Seller detail pages.
+    !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.
   
     1. Admin Interface/           Books and Sellers list pages
                                   Search page for Books and Sellers
