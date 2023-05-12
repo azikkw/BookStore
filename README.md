@@ -13,7 +13,6 @@
     1. Admin
     2. Store
     3. Client
-
 ### 2. User Interfaces
   
     1. Admin Interface/           Books and Sellers list pages
@@ -34,7 +33,6 @@
                                   Rate book page
                                   
     !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.
-    
 ### 3. Functional
 
     Admin - Delete books and sellers
