@@ -26,6 +26,8 @@
                                   Search page for Books and Sellers
                                   Profile page with his books
                                   Seller and Book detail pages
+                                  Add book page
+                                  Update book page
     
     3. Client Interface/          Books and Sellers list pages
                                   Search page for Books and Sellers
