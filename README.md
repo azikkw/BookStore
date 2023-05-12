@@ -33,7 +33,7 @@
                                   Balance page
                                   Rate book page
                                   
-    !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.       
+    !Common pages: Books and Sellers list pages; Books and Sellers search pages; Book and Seller detail pages.
     
 ### 3. Functional
 
