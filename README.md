@@ -6,14 +6,14 @@
 > Bookstore is an Android application that allows you to browse and purchase a wide selection of books directly from your smartphone. The application has a user-friendly interface that makes it easier to search for specific book titles. As soon as you find the book you are interested in, you can read the summary. view reviews from other users . and rating the book before making a purchase.
   
 ⠀  
-<h2 align="center">ABOUT APPLICATION</h2>
+## ABOUT APPLICATION
 
 * Application writen on `Kotlin`
 * To create the user interface was used `Jetpack Compose`
 * For data storage was used was used cloud database `Firebase`
   
 ⠀  
-<h2 align="center">ROLES AND FUNCTIONAL</h2>
+## ROLES AND FUNCTIONAL
 
     1. Admin - Delete books and sellers
     2. Seller - Add book, update book, delete his books
@@ -22,7 +22,7 @@
     !Common functioanl - Sign up/in, search books/sellers, filter books by price/rating
   
 ⠀  
-<h2 align="center">USER INTREFACES</h2>
+## USER INTERFACES
   
     1. Admin Interface/           Books and Sellers list pages
                                   Search page for Books and Sellers
