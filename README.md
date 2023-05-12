@@ -14,10 +14,7 @@
 * For data storage was used was used cloud database `Firebase`
 
 ### 2. Roles
-  
-    1. Admin
-    2. Store
-    3. Client
+· ADMIN · SELLER · CLIENT
     
 ### 3. User Interfaces
   
