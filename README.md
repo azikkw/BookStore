@@ -1,4 +1,4 @@
-# BookStore
+# BookStore - Android Application
 
 <img src="https://github.com/azikkw/BookStore/blob/main/previews/SignIn.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/HomePage.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/BookPage.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/StorePage.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/Profile.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/Cart.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/Balance.jpg" width="200"> <img src="https://github.com/azikkw/BookStore/blob/main/previews/RateBook.jpg" width="200">
 
